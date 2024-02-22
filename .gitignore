@@ -1,0 +1,13 @@
+node_modules
+node_modules/*
+scheduled.txt
+test_wallet*
+password
+.vscode/.eac.log
+.eac.log*
+wallet2
+sample-keystore
+stats.json*
+keystore
+keystore*
+docker/wallet--*
