@@ -1,0 +1,18 @@
+{
+    "autostart": false,
+    "logFile": "default",
+    "logLevel": 2,
+    "maxDeposit": 0,
+    "minBalance": 0,
+    "minProfitability": 0,
+    "maxGasSubsidy": 100,
+    "password": "password",
+    "providers": [
+        "ws://localhost:8546",
+        "ws://kovan.infura.io/ws",
+        "ws://remotenodeurl.com"
+    ],
+    "wallet": [
+        "test_wallet_3"
+    ]
+}
